@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
@@ -22,6 +22,8 @@
 💬 &nbsp;Don’t hesitate to reach out for consulting, mentorship, or thought-provoking discussions.\
 ✉️ &nbsp;Feel free to drop me an email at adityakanoi123@gmail.com! I’ll do my best to get back to you promptly.\
 📄 &nbsp;Feel free to check out my Portfolio to explore more about my work. I'm always open to feedback and suggestions!
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 ### 🛠 &nbsp;Tech Stack
