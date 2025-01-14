@@ -20,7 +20,7 @@
 🌱 &nbsp; I am currently expanding my knowledge in Web3, microservices architecture, and machine learning.\
 ✍️ &nbsp;In my free time, I enjoy music, sports, music production, and blog writing as hobbies.\
 💬 &nbsp;Don’t hesitate to reach out for consulting, mentorship, or thought-provoking discussions.\
-✉️ &nbsp;Feel free to drop me an email at adityakanoi123@gmail.com! I’ll do my best to get back to you promptly.\
+✉️ &nbsp;Feel free to drop me an email at luiscardonadevelop@gmail.com! I’ll do my best to get back to you promptly.\
 📄 &nbsp;Feel free to check out my Portfolio to explore more about my work. I'm always open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
