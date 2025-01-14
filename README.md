@@ -21,7 +21,6 @@
 ✉️ &nbsp;Feel free to drop me an email at adityakanoi123@gmail.com! I’ll do my best to get back to you promptly.\
 📄 &nbsp;Feel free to check out my Portfolio to explore more about my work. I'm always open to feedback and suggestions!
 
-### 🛠 &nbsp;Tech Stack
 
 ### 🛠 &nbsp;Tech Stack
 
